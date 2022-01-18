@@ -1,0 +1,17 @@
+C:\Reflection\bin\Debug\Reflection.exe.config
+C:\Reflection\bin\Debug\Reflection.exe
+C:\Reflection\bin\Debug\Reflection.pdb
+C:\Reflection\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Reflection\bin\Debug\System.Security.AccessControl.dll
+C:\Reflection\bin\Debug\System.Security.Permissions.dll
+C:\Reflection\bin\Debug\System.Security.Principal.Windows.dll
+C:\Reflection\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Reflection\bin\Debug\System.Security.AccessControl.xml
+C:\Reflection\bin\Debug\System.Security.Permissions.xml
+C:\Reflection\bin\Debug\System.Security.Principal.Windows.xml
+C:\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Reflection\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+C:\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Reflection\obj\Debug\Reflection.csproj.CopyComplete
+C:\Reflection\obj\Debug\Reflection.exe
+C:\Reflection\obj\Debug\Reflection.pdb
