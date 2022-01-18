@@ -1,4 +1,4 @@
-﻿namespace Reflection.Enum
+﻿namespace ConfigurationProvider.Enum
 {
     public enum ProviderType
     {

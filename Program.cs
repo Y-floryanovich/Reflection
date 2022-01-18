@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Reflection.Settings;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,11 @@ namespace Reflection
     {
         static void Main(string[] args)
         {
+            var provider = new Provider();
+
+            var configurationManager = new ConfigurationSettings(provider);
+            
+            var fileSettings = new FileSettings(provider);
         }
     }
 }

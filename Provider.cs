@@ -1,4 +1,5 @@
-﻿using Reflection.Enum;
+﻿using ConfigurationProvider;
+using ConfigurationProvider.Enum;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,7 @@ namespace Reflection
 
         public IConfigurationProvider GetProvider(ProviderType providerType)
         {
-            var providers = LoadProviders(@"..\..\..\Plugins\Providers.dll");
+            var providers = LoadProviders(@"..\..\..\Providers.dll");
             var provider = providers.FirstOrDefault(x => x.ProviderType == providerType);
             if (providerType == ProviderType.ConfigurationManager)
             {

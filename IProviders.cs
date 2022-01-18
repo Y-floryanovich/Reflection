@@ -1,4 +1,5 @@
-﻿using Reflection.Enum;
+﻿using ConfigurationProvider;
+using ConfigurationProvider.Enum;
 
 namespace Reflection
 {

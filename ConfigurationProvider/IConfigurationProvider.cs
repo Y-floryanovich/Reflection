@@ -1,7 +1,7 @@
-﻿using Reflection.Enum;
+﻿using ConfigurationProvider.Enum;
 using System.Reflection;
 
-namespace Reflection
+namespace ConfigurationProvider
 {
     public interface IConfigurationProvider
     {

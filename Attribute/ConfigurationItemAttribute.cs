@@ -1,4 +1,4 @@
-﻿using Reflection.Enum;
+﻿using ConfigurationProvider.Enum;
 using System;
 
 namespace Reflection.Attribute

@@ -1,0 +1,6 @@
+C:\Reflection\ConfigurationProvider\obj\Debug\ConfigurationProvider.csproj.AssemblyReference.cache
+C:\Reflection\ConfigurationProvider\obj\Debug\ConfigurationProvider.csproj.CoreCompileInputs.cache
+C:\Reflection\ConfigurationProvider\bin\Debug\ConfigurationProvider.dll
+C:\Reflection\ConfigurationProvider\bin\Debug\ConfigurationProvider.pdb
+C:\Reflection\ConfigurationProvider\obj\Debug\ConfigurationProvider.dll
+C:\Reflection\ConfigurationProvider\obj\Debug\ConfigurationProvider.pdb

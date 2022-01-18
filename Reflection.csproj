@@ -65,10 +65,7 @@
     <Compile Include="Attribute\ConfigurationItemAttribute.cs" />
     <Compile Include="Attribute\TimeSpanFormatAttribute.cs" />
     <Compile Include="ConfigurationComponentBase.cs" />
-    <Compile Include="ConfigurationManagerConfigurationProvider.cs" />
-    <Compile Include="Enum\ProviderType.cs" />
     <Compile Include="FileConfigurationProvider.cs" />
-    <Compile Include="IConfigurationProvider.cs" />
     <Compile Include="IProviders.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -79,6 +76,12 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="ConfigurationProvider\ConfigurationProvider.csproj">
+      <Project>{2549BEEB-F0DA-452D-9DBB-B3E33EB1335C}</Project>
+      <Name>ConfigurationProvider</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -3,10 +3,9 @@ using ConfigurationProvider.Enum;
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Reflection;
 
-namespace Reflection
+namespace Providers
 {
     internal class FileConfigurationProvider : IConfigurationProvider
     {

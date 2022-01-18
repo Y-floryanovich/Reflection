@@ -1,11 +1,15 @@
-﻿using Reflection.Attribute;
-using Reflection.Enum;
+﻿using ConfigurationProvider.Enum;
+using Reflection.Attribute;
 using System;
 
 namespace Reflection.Settings
 {
     public class ConfigurationSettings : ConfigurationComponentBase
     {
+        public ConfigurationSettings(IProviders providersFactory) : base(providersFactory)
+        {
+        }
+
         public ConfigurationSettings(string name, TimeSpan? duration, int? number, float? floatNumber, IProviders providers)
             : base(providers)
         {

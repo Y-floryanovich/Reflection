@@ -15,3 +15,5 @@ C:\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
 C:\Reflection\obj\Debug\Reflection.csproj.CopyComplete
 C:\Reflection\obj\Debug\Reflection.exe
 C:\Reflection\obj\Debug\Reflection.pdb
+C:\Reflection\bin\Debug\ConfigurationProvider.dll
+C:\Reflection\bin\Debug\ConfigurationProvider.pdb

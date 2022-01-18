@@ -1,10 +1,10 @@
-﻿using Reflection.Attribute;
-using Reflection.Enum;
-using System;
+﻿using System;
 using System.Configuration;
 using System.Reflection;
+using ConfigurationProvider;
+using ConfigurationProvider.Enum;
 
-namespace Reflection
+namespace Providers
 {
     internal class ConfigurationManagerConfigurationProvider : IConfigurationProvider
     {
